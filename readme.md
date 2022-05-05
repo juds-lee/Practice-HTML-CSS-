@@ -1,3 +1,3 @@
 #Practice Code Along 
-
-following EasyTutorials on youtube
+My first dive in html and css
+following EasyTutorials on youtube 
